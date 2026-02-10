@@ -1,0 +1,23 @@
+[
+  {
+    "junction": "Trichy_Dindigul_Road",
+    "cars_per_hour": 1250,
+    "speed_avg": 45,
+    "weather": "rainy",
+    "accident_risk": 0.12
+  },
+  {
+    "junction": "Chennai_Hwy_Junction", 
+    "cars_per_hour": 2200,
+    "speed_avg": 32,
+    "weather": "foggy",
+    "accident_risk": 0.45
+  },
+  {
+    "junction": "Thuvakudi_Industrial",
+    "cars_per_hour": 850,
+    "speed_avg": 55,
+    "weather": "clear",
+    "accident_risk": 0.08
+  }
+]
